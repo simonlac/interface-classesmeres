@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.exe.config
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.exe
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.pdb
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.exe
+C:\Users\18196\source\repos\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.pdb
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.exe.config
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.exe
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\bin\Debug\Interface_ClassesMeres.pdb
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.csproj.AssemblyReference.cache
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.csproj.CoreCompileInputs.cache
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.exe
+H:\windows programming\Interface_ClassesMeres_\Interface_ClassesMeres\Interface_ClassesMeres\obj\Debug\Interface_ClassesMeres.pdb
